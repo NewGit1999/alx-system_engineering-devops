@@ -1,1 +1,1 @@
-repo for devops programming and learning
+repository for devops programming and networking
